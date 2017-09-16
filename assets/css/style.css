@@ -1,0 +1,47 @@
+.main-container {
+	text-align: center;
+	margin: 40px;
+}
+
+h1 {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	color: #D900D9;
+	font-size: 35px;
+}
+
+#space-form {
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	font-size: 17px;
+	color: navy;
+	margin: 20px;
+}
+
+#space-input {
+	color: #1e90ff;
+	margin-left: 20px;
+}
+
+#add-spaceStuff {
+	margin: 20px;
+	color: #D900D9;
+}
+
+#button-container {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	font-size: 15px;
+	margin: 20px;
+}
+
+button {
+	margin: 7px;
+}
+
+#image-container {
+	width: 900px;
+	margin: 40px;
+}
+
+figure {
+	float: left;
+	margin-right: 15px;
+}
