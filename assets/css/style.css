@@ -37,11 +37,12 @@ button {
 }
 
 #image-container {
-	width: 900px;
-	margin: 40px;
+    width: 1155px;  
+    margin: auto;
 }
 
 figure {
-	float: left;
-	margin-right: 15px;
+    float: left;
+    margin-right: 0px;
+    margin-left: 15px;
 }

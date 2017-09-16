@@ -103,9 +103,10 @@ function toggleImageAnimation(image) {
 }
 
 function addTopic(topic) {
-   
+
     topics.push(topic);
     renderTopicButtons();
+    $('#space-input').val(" ");
 }
 
 $("#add-spaceStuff").on("click", function(event) { 
