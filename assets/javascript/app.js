@@ -29,7 +29,7 @@ function getTopicImages(queryURL) {
     var query = queryURL.text();
     _topicImages = [];
 
-    var queryURL = $.get("http://api.giphy.com/v1/gifs/search?q=" + query + "&api_key=" + API_KEY + "&limit=" + LIMIT);
+    var queryURL = $.get("https://api.giphy.com/v1/gifs/search?q=" + query + "&api_key=" + API_KEY + "&limit=" + LIMIT);
     
     queryURL.done(function(apiResults) { 
        
